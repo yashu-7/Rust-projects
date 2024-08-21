@@ -24,7 +24,7 @@ fn main() -> opencv::Result<()> {
             opencv::core::flip(&frame, &mut flipped, 1)?;
             flipped
         };
-        let ksize: i32 = 13;
+        let ksize: i32 = 33;
         let k_size = Size::new(3,3);
         let sigmax: f64 = 5.5;
         let sigmay: f64 = 5.0;
