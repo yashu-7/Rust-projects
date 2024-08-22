@@ -1,0 +1,11 @@
+C:\Users\yaswa\learn\rust_files\Rust-projects\receipt-generator\target\debug\deps\libgif-ba4b9132f45a092f.rmeta: C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.11.4\src\lib.rs C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.11.4\src\traits.rs C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.11.4\src\common.rs C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.11.4\src\reader\mod.rs C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.11.4\src\reader\decoder.rs C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.11.4\src\encoder.rs C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.11.4\src\../README.md
+
+C:\Users\yaswa\learn\rust_files\Rust-projects\receipt-generator\target\debug\deps\gif-ba4b9132f45a092f.d: C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.11.4\src\lib.rs C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.11.4\src\traits.rs C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.11.4\src\common.rs C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.11.4\src\reader\mod.rs C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.11.4\src\reader\decoder.rs C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.11.4\src\encoder.rs C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.11.4\src\../README.md
+
+C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.11.4\src\lib.rs:
+C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.11.4\src\traits.rs:
+C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.11.4\src\common.rs:
+C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.11.4\src\reader\mod.rs:
+C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.11.4\src\reader\decoder.rs:
+C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.11.4\src\encoder.rs:
+C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.11.4\src\../README.md:

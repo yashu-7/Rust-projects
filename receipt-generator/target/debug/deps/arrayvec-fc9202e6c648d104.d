@@ -1,0 +1,10 @@
+C:\Users\yaswa\learn\rust_files\Rust-projects\receipt-generator\target\debug\deps\libarrayvec-fc9202e6c648d104.rmeta: C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\lib.rs C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\maybe_uninit.rs C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\array.rs C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\array_string.rs C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\char.rs C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\errors.rs
+
+C:\Users\yaswa\learn\rust_files\Rust-projects\receipt-generator\target\debug\deps\arrayvec-fc9202e6c648d104.d: C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\lib.rs C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\maybe_uninit.rs C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\array.rs C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\array_string.rs C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\char.rs C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\errors.rs
+
+C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\lib.rs:
+C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\maybe_uninit.rs:
+C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\array.rs:
+C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\array_string.rs:
+C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\char.rs:
+C:\Users\yaswa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.5.2\src\errors.rs:
