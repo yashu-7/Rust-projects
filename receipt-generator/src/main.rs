@@ -2,7 +2,7 @@ use std::env;
 
 struct Receipt{
     item:String,
-    cost:String,
+    cost:f32,
 }
 
 fn main() {
@@ -22,17 +22,19 @@ fn main() {
     for items in items{
         let things:Vec<&str> = items.split('-').collect();
         let purchased = things[0];
-        let cost = things[1];
+        let cost = things[1].parse::<f32>().unwrap();
         let receipt = Receipt {
             item: purchased.to_string(),
-            cost: cost.to_string(),
+            cost,
         };
         receipts.push(receipt);
     }
-    display_table(receipts);
+    let total_cost = receipts.iter().map(|receipt| receipt.cost).sum::<f32>();
+    display_table(&receipts, total_cost);
+    
 }
 
-fn display_table(receipts: Vec<Receipt>){
+fn display_table(receipts: &Vec<Receipt>, total: f32) {
     println!("{:>15}","-----------");
     println!("{:>15}","| Receipt |");
     println!("{:>15}","-----------");
@@ -42,4 +44,7 @@ fn display_table(receipts: Vec<Receipt>){
     for receipt in receipts{
         println!("| {:<10} | {:<5} |",receipt.item,receipt.cost);
     }
+    println!("----------------------");
+    println!("| {:<10} | {:<5} |","TOTAL",total);
+    println!("----------------------");
 }
